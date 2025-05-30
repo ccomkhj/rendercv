@@ -166,7 +166,7 @@ cython_debug/
 .vscode/
 
 # Personal CVs
-*_CV.yaml
+# *_CV.yaml
 *_cv.py
 *_CV.typ
 rendercv_output/
@@ -190,3 +190,6 @@ render_command.prof
 
 # Executables:
 bin/
+
+classic
+markdown
